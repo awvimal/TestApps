@@ -1,0 +1,236 @@
+
+: 1:18:45 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:18:45 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:18:47 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:18:47 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:19:08 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:19:08 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:19:11 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:19:11 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:19:12 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Uploaded the policy with the inovice no.
+-------------------------------
+
+: 1:19:12 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:19:14 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:19:14 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:19:16 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:19:16 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:19:18 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:19:18 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:19:23 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:19:23 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:19:23 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Uploaded the policy with the inovice no.
+-------------------------------
+
+: 1:19:23 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:27:02 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:27:02 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:27:06 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:27:06 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:27:06 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Uploaded the policy with the inovice no.
+-------------------------------
+
+: 1:27:06 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:32:13 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:32:13 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:32:16 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:32:16 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:32:16 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Uploaded the policy with the inovice no.
+-------------------------------
+
+: 1:32:16 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:33:11 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:33:11 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:33:21 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:33:21 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:33:23 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:33:23 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:33:53 PM Monday, February 22, 2016
+  :Ex in ConnectException -  Connect Failure: NameServer Communications Failure - System.Net.Sockets.SocketException (0x80004005): A blocking operation was interrupted by a call to WSACancelBlockingCall
+   at Progress.SupportClass.UdpClientSupport.Receive(UdpClientSupport tempClient, PacketSupport packet)
+   at Progress.NameServer.Client.NameServerClient.receiveResponse(Int32 responseCount, String applicationService) (8230) 
+-------------------------------
+
+: 1:33:53 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:34:12 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:34:12 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:34:13 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:34:13 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:34:17 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:34:17 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:34:18 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Uploaded the policy with the inovice no.
+-------------------------------
+
+: 1:34:18 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:34:44 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:34:44 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
+
+: 1:34:46 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:34:46 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:34:49 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Entering the edit click process
+-------------------------------
+
+: 1:34:49 PM Monday, February 22, 2016
+  :Infor - CreatePolicy()  Creating the policy in premium and retrieving the inovice no.
+-------------------------------
+
+: 1:34:49 PM Monday, February 22, 2016
+  :Ex in ConnectException -  Connect Failure: NameServer Communications Failure - System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at Progress.SupportClass.UdpClientSupport.Receive(UdpClientSupport tempClient, PacketSupport packet)
+   at Progress.NameServer.Client.NameServerClient.receiveResponse(Int32 responseCount, String applicationService) (8230) 
+-------------------------------
+
+: 1:34:49 PM Monday, February 22, 2016
+  :Infor - btnEdit_Click()  Exiting the edit click process
+-------------------------------
+
+: 1:34:57 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieving the unprocessed files
+-------------------------------
+
+: 1:34:57 PM Monday, February 22, 2016
+  :Infor - btnGetUnProcessedPolicies_Click()  Retrieved & binded the data to the grid
+-------------------------------
